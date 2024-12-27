@@ -4,6 +4,9 @@
 The To-Do List is a simple yet functional web application designed to help users organize and manage their daily tasks. With this application, 
 users can add tasks, mark them as completed, and delete them when no longer needed. The interface is user-friendly, making it a great tool for staying productive.
 
+
+![Project Screen](imgs/final.png)
+
 ---
 
 ## Features
